@@ -78,7 +78,7 @@ function validatePassword() {
     var input_pw = document.getElementById("pw");
 
     if (input_pw.value == pw) {
-        window.open("index.html"); //weeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeb
+        window.open("https://technical-dhananjay.github.io/windows11/desktop.html"); //weeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeb
     }
     else {
         switchElement("fake-link", "wrongPassword");
